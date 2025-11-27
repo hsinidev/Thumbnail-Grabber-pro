@@ -6,13 +6,13 @@
 [![React](https://img.shields.io/badge/React-18.2-blue.svg?logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-38B2AC.svg?logo=tailwind-css)](https://tailwindcss.com/)
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Doodax-purple)](https://Thumbnail.doodax.com)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Doodax-purple)](https://doodax.com)
 
 ---
 
 ## 🚀 LIVE DEMO
 **Experience the application live:**  
-👉 **[Thumbnail.doodax.com](https://Thumbnail.doodax.com)** 👈
+👉 **[doodax.com](https://doodax.com/tools/thumbnail-grabber/index.html)** 👈
 
 ---
 
